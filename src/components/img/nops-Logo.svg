@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg8" inkscape:version="0.92.1 r15371" sodipodi:docname="timetrackerlogo.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1433.6 496.8"
+	 style="enable-background:new 0 0 1433.6 496.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00bfa5;}
+	.st1{fill:#455a64;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="0.0" id="base" inkscape:current-layer="layer1" inkscape:cx="128.87541" inkscape:cy="252.11852" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1018" inkscape:window-maximized="1" inkscape:window-width="2560" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:zoom="1.4" pagecolor="#ffffff" showgrid="false" units="px">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-164.70832)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="g10" transform="matrix(1.218064,0,0,-1.1646101,11.150654,189.82495)">
+		<g id="g12" transform="scale(0.1)">
+			<path id="path24" inkscape:connector-curvature="0" class="st0" d="M3921.9-1916.5l1181.2,1735c55,81.5,55,181.7-3,264.3
+				c-56.7,83.9-160.9,132.8-272.9,132.8H1650.8c-113.3,0-217.7-48.9-272.9-132.8c-56.6-82.6-59.5-182.8-2.9-264.3l1181-1735
+				L1375-3651.3c-56.6-82.7-53.7-183.2,2.9-265.7c55.3-81.3,159.6-132.8,272.9-132.8h3176.4c112,0,216.2,51.4,272.9,132.8
+				c58,82.5,58,183,3,265.7L3921.9-1916.5z M3243.5-1847.6L4285.9-318H2204L3243.5-1847.6z M1650.8-3783l1269.1,1866.6L1650.8-49.9
+				h3176.4L3556.7-1916.5L4827.2-3783H1650.8z M3239-1989.1l1041-1529.6H2199.6L3239-1989.1"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st1" d="M223.5,211v145.3H173V225c0-35.1-21.1-56.6-56.2-56.6c-38.6,0.4-62.8,27.2-66.3,63.7v124.3H0V122.7h50.5v44.8
+			C67.2,135,97,121,136.6,121C191,121,223.5,155.2,223.5,211z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st1" d="M927.4,202.6c0,87.8-71.1,155.9-162.9,155.9s-162.9-68.1-162.9-155.9c0-88.3,71.1-155,162.9-155
+			S927.4,114.8,927.4,202.6z M654.3,202.6c0,61,50.5,109.3,110.6,109.3c60.2,0,109.3-48.3,109.3-109.3S825.1,94.2,764.9,94.2
+			C704.3,94.2,654.3,141.6,654.3,202.6z"/>
+		<path class="st1" d="M1225.5,240.4c0,69.8-43.9,117.7-110.6,117.7c-37.3,0-65.4-14.9-82.5-42.2v125.6h-50.5V122.7h50.5v40.4
+			c17.1-27.2,45.2-42.2,81.7-42.2C1180.3,121,1225.5,169.3,1225.5,240.4z M1174.6,238.7c0-43.5-29.4-75.5-71.1-75.5
+			s-71.1,31.6-71.1,75.5c0,45.2,29.4,76.4,71.1,76.4S1174.6,283.4,1174.6,238.7z"/>
+		<path class="st1" d="M1344,160.9c-19.8,0-34.2,6.6-34.2,23.3c0,43,124.3,19.8,123.8,104.5c0,47.9-42.6,69.4-89.6,69.4
+			c-34.2,0-70.7-11.4-94-32.5l18-36c20.2,18,52.7,29,78.2,29c21.5,0,38.2-7.5,38.2-25c0-47.9-122.9-21.1-122.5-105.4
+			c0-47.4,41.3-67.6,86.1-67.6c29.4,0,60.6,8.8,81.7,23.7l-18.4,37.3C1390.6,168.8,1364.7,160.9,1344,160.9z"/>
+	</g>
+</g>
+</svg>
